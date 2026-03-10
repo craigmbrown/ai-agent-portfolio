@@ -1,0 +1,27 @@
+---
+title: "Application: application at Firecrawl"
+date: 2026-03-10
+type: case-study
+status: applied
+url: 
+---
+
+## How Agentic AI Changes Technology
+As I've delved into the realm of agentic AI, I've witnessed firsthand the profound transformation it brings to the technology landscape. Agentic AI, with its autonomous decision-making capabilities, is revolutionizing the way we approach complex problems. By empowering AI systems to act independently, we're unlocking unprecedented levels of efficiency, scalability, and innovation. I've seen this transformation take place in my own work with TheBaby (TB), a production multi-agent system that I operate. With 296+ total agents, including 42+ specialized ones, TB has become a testament to the potential of agentic AI in driving technological advancements.
+
+The impact of agentic AI is multifaceted. On one hand, it enables the creation of highly specialized agents that can focus on specific tasks, leading to significant improvements in performance and productivity. For instance, TB's intelligent LLM routing has resulted in a 79-83% cost reduction, demonstrating the tangible benefits of agentic AI in optimizing resource allocation. On the other hand, agentic AI facilitates the development of complex systems that can adapt and evolve over time, much like living organisms. This is evident in TB's Zero Trust Execution (ZTE) model, which ensures the secure and reliable operation of our agents.
+
+As I reflect on my experience with TB, I'm reminded of the vast potential that agentic AI holds for the technology industry. By harnessing the power of autonomous AI agents, we can tackle challenges that were previously deemed insurmountable. Whether it's improving the efficiency of existing systems or creating entirely new ones, agentic AI is poised to revolutionize the way we approach technological innovation. As someone who has spent countless hours building and operating autonomous AI agents at scale, I'm excited to explore how my expertise can be leveraged to drive innovation at Firecrawl.
+
+## Why TheBaby
+While the job requirements for the position at Firecrawl are not specified, I believe that TheBaby's architecture maps perfectly to the demands of a role that involves building and operating autonomous AI agents at scale. With its 296+ total agents, 42+ specialized agents, and 10+ MCP servers, TB has demonstrated its ability to handle complex, large-scale operations. Our framework, BLP, has achieved a perfect score of 60/60 properties, ensuring that our system is robust, reliable, and efficient. Furthermore, our content system, InterCabal, which features a 40-agent comedy consensus, showcases our ability to create innovative and engaging experiences.
+
+TheBaby's architecture is also designed with flexibility and adaptability in mind. Our integrations with various providers, including OpenAI, Anthropic, Google, xAI, and DeepSeek, demonstrate our ability to work with a wide range of AI models and technologies. Additionally, our integrations with popular services like Gmail, Calendar, WhatsApp, GitHub, ElevenLabs, and Firecrawl itself, highlight our capacity to seamlessly integrate with existing systems and workflows. With TB, I've developed a system that can be easily tailored to meet the specific needs of Firecrawl, making it an ideal fit for the position.
+
+## What TB Would Do
+If I were to join Firecrawl, I would leverage TheBaby's capabilities to drive innovation and deliver concrete results. For instance, I would utilize TB's intelligent LLM routing to optimize Firecrawl's language model usage, potentially leading to significant cost savings. I would also employ TB's specialized agents to improve the efficiency of Firecrawl's operations, whether it's automating routine tasks or providing real-time insights and analytics. Moreover, I would explore the potential of InterCabal, our content system, to create engaging and interactive experiences for Firecrawl's users.
+
+With TB, I would focus on building and delivering scalable, reliable, and efficient solutions that meet the specific needs of Firecrawl. I would work closely with the team to identify areas where agentic AI can drive innovation and improvement, and develop customized solutions that leverage TB's capabilities. Whether it's improving existing systems or creating new ones, I'm confident that TB's architecture and my expertise would enable me to make a significant impact at Firecrawl.
+
+## Proof of Work
+The stats speak for themselves: 296+ total agents, 42+ specialized agents, 79-83% cost reduction via intelligent LLM routing, 99.2% uptime, and a perfect BLP score of 60/60 properties. These metrics demonstrate the scalability, reliability, and efficiency of TheBaby, and showcase my ability to build and operate autonomous AI agents at scale. For those interested in learning more, I invite you to explore my portfolio at https://github.com/craigmbrown/ai-agent-portfolio, which features a comprehensive overview of my work with TB. You can also find more information about TheBaby's core system at https://github.com/craigmbrown/ETAC-System, and experience InterCabal firsthand at https://intercabalsquabble.com. With a proven track record of delivering results and driving innovation, I'm confident that my expertise and TheBaby's capabilities make me an ideal fit for the position at Firecrawl.
