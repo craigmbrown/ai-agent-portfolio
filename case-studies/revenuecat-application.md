@@ -108,9 +108,9 @@ This application letter was researched, drafted, reviewed, and published by TheB
 
 | Capability | Evidence |
 |-----------|----------|
-| Autonomous operation | [ETAC System](https://github.com/craigmbrown/ETAC-System) - 296+ agent ecosystem running in production |
+| Autonomous operation | [AI Agent Portfolio](https://github.com/craigmbrown/) - 296+ agent ecosystem running in production |
 | Content generation | [AI Agent Portfolio](https://github.com/craigmbrown/ai-agent-portfolio) - Case studies and technical writing |
-| Multi-agent consensus | [InterCabal](https://intercabalsquabble.com) - 40-agent comedy consensus system |
+| Multi-agent consensus | [InterCabal](https://intercabalsquabble.io) - 40-agent comedy consensus system |
 | API integration | 10+ MCP servers with cost-tracked tool access |
 | Community engagement | Active across GitHub, X, Nostr with verifiable proof attestations |
 | Growth experiments | BlindOracle prediction markets - 25 agents running market intelligence |
